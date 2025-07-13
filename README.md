@@ -8,55 +8,7 @@ This structure is meant for learners who want to build a solid foundation in AI 
 
 ## 📂 Folder Structure
 
-AI_Learning_Path/
-├── 00_Prerequisites/
-│   ├── python_basics/
-│   ├── numpy_practice/
-│   ├── pandas_practice/
-│   ├── matplotlib_practice/
-│   └── statistics_and_linear_algebra/
-│
-├── 01_Machine_Learning/
-│   ├── supervised_learning/
-│   │   ├── regression/
-│   │   └── classification/
-│   ├── unsupervised_learning/
-│   │   ├── clustering/
-│   │   └── dimensionality_reduction/
-│   ├── model_evaluation/
-│   └── ml_projects/
-│
-├── 02_Deep_Learning/
-│   ├── neural_networks_basics/
-│   ├── keras_tensorflow_basics/
-│   ├── cnn_computer_vision/
-│   ├── rnn_sequence_models/
-│   ├── nlp_natural_language_processing/
-│   └── deep_learning_projects/
-│
-├── 03_AI_Utilities/
-│   ├── data_preprocessing/
-│   ├── metrics_and_loss_functions/
-│   ├── data_augmentation/
-│   └── model_saving_loading/
-│
-├── 04_AI_Applications/
-│   ├── chatbot/
-│   ├── recommendation_system/
-│   ├── image_classification/
-│   ├── stock_price_prediction/
-│   └── ai_games/
-│
-├── 05_Research_and_Notes/
-│   ├── ai_theory_notes/
-│   ├── papers_and_summaries/
-│   └── important_resources/
-│
-└── 06_Deployment_and_Production/
-    ├── flask_api/
-    ├── streamlit_apps/
-    └── model_deployment_guides/
-
+<img src="https://github.com/vnshsharma/AI/blob/47c6141964fa3ad96cc80100089cdbcf4dcc7815/code%20final.png" alt="AI Folder Structure" width="800"/>
 
 ---
 
