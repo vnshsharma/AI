@@ -8,7 +8,55 @@ This structure is meant for learners who want to build a solid foundation in AI 
 
 ## 📂 Folder Structure
 
-<img src="https://github.com/vnshsharma/AI/blob/47c6141964fa3ad96cc80100089cdbcf4dcc7815/code%20final.png" alt="AI Folder Structure" width="800"/>
+AI_Learning_Path/<br>
+├── 00_Prerequisites/<br>
+│   ├── python_basics/<br>
+│   ├── numpy_practice/<br>
+│   ├── pandas_practice/<br>
+│   ├── matplotlib_practice/<br>
+│   └── statistics_and_linear_algebra/<br>
+<br>
+├── 01_Machine_Learning/<br>
+│   ├── supervised_learning/<br>
+│   │   ├── regression/<br>
+│   │   └── classification/<br>
+│   ├── unsupervised_learning/<br>
+│   │   ├── clustering/<br>
+│   │   └── dimensionality_reduction/<br>
+│   ├── model_evaluation/<br>
+│   └── ml_projects/<br>
+<br>
+├── 02_Deep_Learning/<br>
+│   ├── neural_networks_basics/<br>
+│   ├── keras_tensorflow_basics/<br>
+│   ├── cnn_computer_vision/<br>
+│   ├── rnn_sequence_models/<br>
+│   ├── nlp_natural_language_processing/<br>
+│   └── deep_learning_projects/<br>
+<br>
+├── 03_AI_Utilities/<br>
+│   ├── data_preprocessing/<br>
+│   ├── metrics_and_loss_functions/<br>
+│   ├── data_augmentation/<br>
+│   └── model_saving_loading/<br>
+<br>
+├── 04_AI_Applications/<br>
+│   ├── chatbot/<br>
+│   ├── recommendation_system/<br>
+│   ├── image_classification/<br>
+│   ├── stock_price_prediction/<br>
+│   └── ai_games/<br>
+<br>
+├── 05_Research_and_Notes/<br>
+│   ├── ai_theory_notes/<br>
+│   ├── papers_and_summaries/<br>
+│   └── important_resources/<br>
+<br>
+└── 06_Deployment_and_Production/<br>
+    ├── flask_api/<br>
+    ├── streamlit_apps/<br>
+    └── model_deployment_guides/<br>
+
 
 ---
 
