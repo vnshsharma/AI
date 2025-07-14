@@ -1,21 +1,27 @@
-import pandas as pd
-
-# Create DataFrame from a dictionary
+import pandas as pd 
+# ============== Creating from dictionary ==============
+'''
 data = {
-    'Name': ['Vansh', 'Siddharth', 'Aryan', 'Kunal'],
-    'Age': [20, 21, 19, 22],
-    'City': ['Delhi', 'Mumbai', 'Jaipur', 'Lucknow']
+    'Name': ['IronMan','Aamir','Hitler'],
+    'Age': [18,19,20],
+    'Country': ['USA','India','Germany']
 }
-
+# Convert dictionary into DataFrame
 df = pd.DataFrame(data)
-
-# Display the DataFrame
-print("Original DataFrame:")
 print(df)
+'''
 
-# Check basic properties
-print("\nDataFrame Shape:", df.shape)
-print("\nDataFrame Info:")
-print(df.info())
-print("\nDataFrame Describe:")
-print(df.describe(include='all'))
+# ============== Create empty dataframe and then add rows ==============
+'''
+df = pd.DataFrame(columns=['Name','Age','Country'])
+# Adding rows 
+df.loc[0] = ['IronMan',18,'USA']
+df.loc[1] = ['Hitler',20,'Germany']
+print(df)
+'''
+
+# ============= Create from list to lists ===============
+data = [['IronMan',18,'USA'],
+        ['Hitler',20,'Germany']]
+df = pd.DataFrame(data,columns=['Name','Age','Country'])
+print(df)
