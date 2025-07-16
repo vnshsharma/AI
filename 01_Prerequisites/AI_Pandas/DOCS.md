@@ -1,5 +1,7 @@
 # 📊 Pandas_AI_Practice
 
+**Learning this from OpenAI**
+
 Welcome to **Pandas_AI_Practice** — a structured practice folder containing Python programs and exercises to master **Pandas**, the powerful data manipulation library for AI and data science.
 
 ---
