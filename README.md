@@ -1,5 +1,7 @@
 # 📚 AI Learning Path
 
+**Learning this from OpenAI**
+
 Welcome to the **AI_Learning_Path** — a well-organized directory structure designed to systematically learn and practice **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and related tools and concepts.
 
 This structure is meant for learners who want to build a solid foundation in AI and progressively move towards advanced applications and projects.
