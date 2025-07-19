@@ -19,6 +19,13 @@ AI_Learning_Path/<br>
 │   └── statistics_and_linear_algebra/<br>
 <br>
 ├── 01_Machine_Learning/<br>
+│   ├── scikit_learn_basics/<br>
+│   │   ├── linear_regression/<br>
+│   │   ├── logistic_regression/<br>
+│   │   ├── decision_trees/<br>
+│   │   ├── svm_and_knn/<br>
+│   │   ├── naive_bayes/<br>
+│   │   └── clustering_and_pca/<br>
 │   ├── supervised_learning/<br>
 │   │   ├── regression/<br>
 │   │   └── classification/<br>
@@ -29,6 +36,13 @@ AI_Learning_Path/<br>
 │   └── ml_projects/<br>
 <br>
 ├── 02_Deep_Learning/<br>
+│   ├── pytorch_basics/<br>
+│   │   ├── tensors_operations/<br>
+│   │   ├── autograd_basics/<br>
+│   │   ├── building_nn/<br>
+│   │   ├── training_loops/<br>
+│   │   ├── mnist_from_scratch/<br>
+│   │   └── cnn_and_rnn/<br>
 │   ├── neural_networks_basics/<br>
 │   ├── keras_tensorflow_basics/<br>
 │   ├── cnn_computer_vision/<br>
@@ -58,6 +72,7 @@ AI_Learning_Path/<br>
     ├── flask_api/<br>
     ├── streamlit_apps/<br>
     └── model_deployment_guides/<br>
+
 
 
 ---
